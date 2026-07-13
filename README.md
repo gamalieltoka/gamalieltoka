@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c81,100:00b4d8&height=220&section=header&text=Hi%20👋,%20I'm%20Gamaliel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20|%20Health%20Data%20Analytics%20|%20Machine%20Learning&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c81,100:00b4d8&height=220&section=header&text=Hi%20👋,%20I'm%20Gamaliel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20|%20Health%20and%20Research%20Analyst%20|%20Machine%20Learning&descAlignY=55"/>
 </p>
 
 <h1 align="center">Data Analyst | Health Data Analytics | Machine Learning</h1>
